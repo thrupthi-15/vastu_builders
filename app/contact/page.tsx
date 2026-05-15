@@ -51,7 +51,7 @@ export default function ContactPage() {
               <div className="mt-6 flex flex-col gap-4">
                 {[
                   { icon: "📍", label: "Address", val: "#42, Saraswathipuram Main Road, Mysuru – 570009, Karnataka, India" },
-                  { icon: "📞", label: "Phone", val: "+91 97400 55678  |  +91 82170 33456" },
+                  { icon: "📞", label: "Phone", val: "+91 9980563605" },
                   { icon: "✉️", label: "Email", val: "info@vaastubuilders.in" },
                   { icon: "🕐", label: "Working Hours", val: "Monday – Saturday: 9:00 AM – 6:30 PM  |  Sunday: By appointment" },
                 ].map((c) => (
