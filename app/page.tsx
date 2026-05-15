@@ -243,7 +243,7 @@ export default function Home() {
           </div>
         </section>
 
-        <a href="https://wa.me/919740055678" target="_blank" rel="noreferrer" className="wa-pulse fixed bottom-8 right-8 z-50 w-14 h-14 rounded-full flex items-center justify-center text-2xl bg-[#25D366] hover:scale-110 transition-transform">💬</a>
+        <a href="https://wa.me/919980563605" target="_blank" rel="noreferrer" className="wa-pulse fixed bottom-8 right-8 z-50 w-14 h-14 rounded-full flex items-center justify-center text-2xl bg-[#25D366] hover:scale-110 transition-transform">💬</a>
         <Footer />
       </div>
     </>
